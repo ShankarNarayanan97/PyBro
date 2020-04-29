@@ -7,6 +7,7 @@ A lightweight browser for Python3 </h1>
 
 <u><h2>Instructions:</h2>
 <h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
+<h5>2. Install any Python IDE of your choice <a href="https://wiki.python.org/moin/IntegratedDevelopmentEnvironments">here</a> </h5>
 <h5>2. Install PyQt5 using any supported 
 <a href="https://towardsdatascience.com/which-python-package-manager-should-you-use-d0fd0789a250">package manager</a></h5>
 
