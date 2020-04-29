@@ -7,6 +7,11 @@ A lightweight browser for Python3 </h1>
 <h2>Screenshots</h2>
 
 ![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser2.JPG)
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser3.JPG)
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser4.JPG)
+
+
 
 <u><h2>Instructions:</h2>
 <h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
