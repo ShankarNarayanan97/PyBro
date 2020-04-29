@@ -8,8 +8,8 @@ A lightweight browser for Python3 </h1>
 
 ![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
 ![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser2.JPG)
-![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser3.JPG)
 ![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser4.JPG)
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser6.JPG)
 
 
 
