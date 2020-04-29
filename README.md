@@ -1,6 +1,8 @@
 <h1>PyBro® :
 A lightweight browser for Python3 </h1>
 
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
+
 <p>This is a small project to demonstrate the use of PyQt5 library to create a standard browser which can be deployed in systems having minimal memory.</p>
 
 
