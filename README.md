@@ -1,9 +1,11 @@
 <h1>PyBro® :
 A lightweight browser for Python3 </h1>
 
-![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
 
 <p>This is a small project to demonstrate the use of PyQt5 library to create a standard browser which can be deployed in systems having minimal memory like Raspberry Pi 3,Orange Pi Prime,Banana Pi M3 and many other ARM devices</p>
+
+
+![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
 
 <u><h2>Instructions:</h2>
 <h5>1. Install Python <a href="https://www.python.org/downloads/">here</a> </h5>
