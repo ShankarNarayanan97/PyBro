@@ -2,7 +2,7 @@
 A lightweight browser for Python3 </h1>
 
 
-<p>This is a small project to demonstrate the use of PyQt5 library to create a standard browser which can be deployed in systems having minimal memory footprint like Raspberry Pi 3,Orange Pi Prime,Banana Pi M3 and many other ARM devices but not limited to any device that can run Python </p>
+<p>This is a small project to demonstrate the use of PyQt5 library to create a standard browser which can be deployed in systems having minimal memory footprint like Raspberry Pi 3,Orange Pi Prime and many other ARM devices but not limited to any device that can run Python </p>
 
 <h2>Screenshots</h2>
 
