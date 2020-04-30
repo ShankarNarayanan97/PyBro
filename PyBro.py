@@ -46,7 +46,7 @@ class AboutDialog(QDialog): # This is the drop down for displaying the program's
         layout.addWidget(title)
 
         logo = QLabel()
-        logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png'))) # As i mentioned earlier, os module is used to link the file in my
+        logo.setPixmap(QPixmap(os.path.join('images', 'name.png'))) # As i mentioned earlier, os module is used to link the file in my
                                                                             # HDD to the value of 'images'
         layout.addWidget(logo) # Adding the widget to the main layout
 
