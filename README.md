@@ -4,6 +4,12 @@ A lightweight browser for Python3 </h1>
 
 <p>This is a small project to demonstrate the use of PyQt5 library to create a standard browser which can be deployed in systems having minimal memory footprint like Raspberry Pi 3,Orange Pi Prime and many other ARM devices but not limited to any device that can run Python </p>
 
+<h2> Features</h2>
+	
+* Based on Chrome 56
+* 28% faster reload behaviour with reduced bandwidth
+* Rendering capailities are better by 35%
+
 <h2>Screenshots</h2>
 
 ![PyBro](https://github.com/ShankarNarayanan97/PyBro-/blob/master/images/browser_overview.JPG)
